@@ -221,7 +221,7 @@ int main() {
 ### Cas d'erreur
 
 - Si un caractère spécial non supporté est détecté dans le message ou la clé, une erreur sera affichée et le chiffrement ou déchiffrement sera arrêté.
-- Les espaces sont supprimés avant le chiffrement et réinsérés après le déchiffrement.
+- Les espaces sont supprimés avant le chiffrement.
 
 ---
 
